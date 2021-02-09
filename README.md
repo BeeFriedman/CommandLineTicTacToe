@@ -1,2 +1,2 @@
 # CommandLineTicTacToe
-Introduction to promgramming final (Fall 2020)
+Introduction to Programming Final (Fall 2020)
